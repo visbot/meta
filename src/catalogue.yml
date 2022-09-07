@@ -3,12 +3,14 @@
 ###
 - id: VA001
   name: "End of, Best of, No more"
+  byline: "Tonic"
   type: compilation
   artists:
   - tonic
 
 - id: VA002
   name: "Halfwayaroundthesun (Littlebuddy Mixes)"
+  byline: "Little Buddy"
   type: compilation
   artists:
   - yathosho
@@ -16,72 +18,84 @@
 
 - id: VA003-1
   name: "I wanna be Frank Nagel"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VA003-2
   name: "I wanna be Frank Nagel, too"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VA004
   name: "Retrospective"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VA005
   name: "Envisions Beyond"
+  byline: "Duo"
   type: compilation
   artists:
   - duo
 
 - id: VA006
   name: "Les Premières Années (1976-2006)"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VA007
   name: "Singles"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VA008
   name: "Seramony"
+  byline: "NemoOrange"
   type: compilation
   artists:
   - nemo-orange
 
 - id: VA009
   name: "LP1-LP6"
+  byline: "SKuPeRS"
   type: compilation
   artists:
   - skupers
 
 - id: VA010
   name: "Halfwayaroundthesun"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VA011
   name: "Inversions & Loungelizard"
+  byline: "Alt III"
   type: compilation
   artists:
   - alt-iii
 
 - id: VA012
   name: "The Full Circle"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VA013
   name: "The New Society"
+  byline: "AVSociety"
   type: compilation
   artists:
   - various-artists
@@ -91,257 +105,300 @@
 ###
 - id: VB001-1
   name: "Brokenframe Teasa"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB001-2
   name: "Brokenframe"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB002
   name: "The Y Element"
+  byline: "SKuPeRS"
   type: album
   artists:
   - skupers
 
 - id: VB003-1
   name: "RRX 7\""
+  byline: "SKuPeRS"
   type: single
   artists:
   - skupers
 
 - id: VB003-2
   name: "LP7"
+  byline: "SKuPeRS"
   type: album
   artists:
   - skupers
 
 - id: VB004
   name: "Since Then 4"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB005-1
   name: "Broken Rewinda pt. 1"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB005-2
   name: "Broken Rewinda pt. 2"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB006
   name: "Since Then 5"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB007-1
   name: "LP7Ra"
+  byline: "SKuPeRS"
   type: single
   artists:
   - skupers
 
 - id: VB007-2
   name: "LP7Rb"
+  byline: "SKuPeRS"
   type: single
   artists:
   - skupers
 
 - id: VB008
   name: "SIGHTS"
+  byline: "NemoOrange"
   type: album
   artists:
   - nemo-orange
 
 - id: VB009
   name: "Detroit V-VIII"
+  byline: "PAN AM"
   type: single
   artists:
   - pan-am
 
 - id: VB010
   name: "Broker's Insider Vol. 1"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB011-1
   name: "Version 2"
+  byline: "Yathosho"
   artists:
   - yathosho
 
 - id: VB011-2
   name: "Version 2 EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB012
   name: "Curvisms"
+  byline: "SKuPeRS"
   type: compilation
   artists:
   - skupers
 
 - id: VB013
   name: "XR6"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB014
   name: "les Noobiens"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB015-1
   name: "Envision (Reissue)"
+  byline: "Duo"
   type: album
   artists:
   - duo
 
 - id: VB015-2
   name: "Envision 2 (Reissue)"
+  byline: "Duo"
   type: album
   artists:
   - duo
 
 - id: VB015-3
   name: "Envision 3"
+  byline: "Duo"
   type: album
   artists:
   - duo
 
 - id: VB016
   name: "govisbotgo"
+  byline: "NemoOrange"
   type: single
   artists:
   - nemo-orange
 
 - id: VB017-1
   name: "Kirschblüten pt. 1"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB017-2
   name: "Kirschblüten pt. 2"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB018
   name: "Nvone EP"
+  byline: "SKuPeRS"
   type: single
   artists:
   - skupers
 
 - id: VB019
   name: "Oldskul"
+  byline: "Alt III"
   type: album
   artists:
   - alt-iii
 
 - id: VB020-1
   name: "Heimcomputer II Preview"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB020-2
   name: "Heimcomputer II"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB021
   name: "Since Then 7"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB022-1
   name: "The Outside Broker"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB022-2
   name: "Broker's Insider Vol. 2"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB023
   name: "DDoo3"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB024
   name: "Since Then 8"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB025
   name: "In Between EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB026-1
   name: "OO'd pt. 1"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB026-2
   name: "OO'd pt. 2"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB027
   name: "Abstraction of Documents"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB028
   name: "Visions II"
+  byline: "Zamuz"
   type: album
   artists:
   - zamuz
 
 - id: VB029-1
   name: "LP8P: Ætatula"
+  byline: "SKuPeRS"
   type: single
   artists:
   - skupers
 
 - id: VB029-2
   name: "LP8: Ætherius"
+  byline: "SKuPeRS"
   type: album
   artists:
   - skupers
 
 - id: VB030
   name: "Revisions"
+  byline: "Zamuz"
   type: album
   artists:
   - zamuz
 
 - id: VB031
   name: "Co-op Session 01"
+  byline: "SKuPeRS / Amphirion"
   type: single
   artists:
   - skupers
@@ -349,24 +406,28 @@
 
 - id: VB032
   name: "Noobism"
+  byline: "les Noobiens"
   type: album
   artists:
   - les-noobiens
 
 - id: VB033-1
   name: "Since Then 9"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB033-2
   name: "Since T(h)en"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB034
   name: "Co-op Session 02"
+  byline: "Yathosho / Zamuz"
   type: single
   artists:
   - yathosho
@@ -374,30 +435,35 @@
 
 - id: VB035-1
   name: "I love OO"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB035-2
   name: "I love OO 2"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB036
   name: "Detroit IX-XII"
+  byline: "PAN AM"
   type: single
   artists:
   - pan-am
 
 - id: VB037
   name: "V.I.P."
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB038
   name: "Co-op Session 03"
+  byline: "les Noobiens / UnConeD"
   type: single
   artists:
   - les-noobiens
@@ -405,66 +471,77 @@
 
 - id: VB039
   name: "Relax"
+  byline: "NemoOrange"
   type: single
   artists:
   - nemo-orange
 
 - id: VB040-1
   name: "Inside White"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB040-2
   name: "Broker's Insider Vol. 3"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB041
   name: "Visions III"
+  byline: "Zamuz"
   type: album
   artists:
   - zamuz
 
 - id: VB042
   name: "X"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB043
   name: "DD2oo3"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VB044
   name: "DDoo4"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB045
   name: "Noob It!"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB046
   name: "Lighthology III"
+  byline: "NemoOrange"
   type: single
   artists:
   - nemo-orange
 
 - id: VB047
   name: "LP7 Suite"
+  byline: "SKuPeRS"
   type: compilation
   artists:
   - skupers
 
 - id: VB048
   name: "Co-op Session 04"
+  byline: "Dynamic Duo / Finnish Flash"
   type: single
   artists:
   - dynamic-duo
@@ -472,66 +549,77 @@
 
 - id: VB049
   name: "New People Selection Vol. 1"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB050
   name: "msibooN"
+  byline: "les Noobiens"
   type: album
   artists:
   - les-noobiens
 
 - id: VB051
   name: "Tidal Pixel"
+  byline: "SKuPeRS"
   type: single
   artists:
   - skupers
 
 - id: VB052-1
   name: "Delight Relight"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB052-2
   name: "Relight Delight"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB053
   name: "Brokenframe Revisited"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB054
   name: "Broker's Insider Vol. 4"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - yathosho
 
 - id: VB055
   name: "DDoo5"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB056
   name: "Less Noodles, More Beans"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB057
   name: "The Unreleases"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB058
   name: "Co-op Session 05"
+  byline: "Zamuz / Hboy"
   type: single
   artists:
   - zamuz
@@ -539,126 +627,147 @@
 
 - id: VB059
   name: "Tintin on the Moon"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB060
   name: "The UnConeD Mixes"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB061
   name: "New People Selection Vol. 2"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB062
   name: "Shape Shifting"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB063
   name: "Leisure Suit Noobie"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB064
   name: "Noobcore"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB065-1
   name: "Since When pt. 1"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB065-2
   name: "Since When pt. 2"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB066
   name: "DDoo6"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB067
   name: "Scenery"
+  byline: "NemoOrange"
   type: album
   artists:
   - nemo-orange
 
 - id: VB068-1
   name: "Visions 4"
+  byline: "Zamuz"
   type: album
   artists:
   - zamuz
 
 - id: VB068-2
   name: "Revisions 2"
+  byline: "Zamuz"
   type: album
   artists:
   - zamuz
 
 - id: VB069
   name: "Broker's Insider Vol. 5"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB070
   name: "Les Couleurs"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB071-1
   name: "Minidisko Remixes pt. 1"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB071-2
   name: "Minidisko Remixes pt. 2"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB072
   name: "Noobtroop Vol. 1"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VB073
   name: "In Treatment"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB074-1
   name: "Preflight"
+  byline: "PAN AM"
   type: single
   artists:
   - pan-am
 
 - id: VB074-2
   name: "747"
+  byline: "PAN AM"
   type: album
   artists:
   - pan-am
 
 - id: VB075
   name: "Co-op Session 06"
+  byline: "NemoOrange / Unripe Lemon"
   type: single
   artists:
   - nemo-orange
@@ -666,18 +775,21 @@
 
 - id: VB076-1
   name: "Prelude to L.O.V.E"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB076-2
   name: "Love your Noobiens"
+  byline: "les Noobiens"
   type: album
   artists:
   - les-noobiens
 
 - id: VB077
   name: "Co-op Session 07"
+  byline: "Yathosho / Synth-C"
   type: single
   artists:
   - yathosho
@@ -685,24 +797,28 @@
 
 - id: VB078
   name: "Dreams"
+  byline: "Zamuz"
   type: single
   artists:
   - zamuz
 
 - id: VB079-1
   name: "X2EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB079-2
   name: "X2"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB080
   name: "Co-op Session 08"
+  byline: "Danaughty1 / Hboy"
   type: single
   artists:
   - danaughty1
@@ -710,168 +826,196 @@
 
 - id: VB081-1
   name: "Jacques aux Fraises"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB081-2
   name: "Shake your Noobiens"
+  byline: "les Noobiens"
   type: album
   artists:
   - les-noobiens
 
 - id: VB082
   name: "Enter da Naughty"
+  byline: "Danaughty1"
   type: single
   artists:
   - danaughty1
 
 - id: VB083
   name: "It's da naughty loose"
+  byline: "Danaughty1"
   type: single
   artists:
   - danaughty1
 
 - id: VB084
   name: "Noobtroop Vol. 2"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VB085
   name: "New People Selection Vol. 3"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB086
   name: "Naughty Nutz"
+  byline: "Danaughty1"
   type: single
   artists:
   - danaughty1
 
 - id: VB087
   name: "Da-Naughty-One"
+  byline: "Danaughty1"
   type: single
   artists:
   - danaughty1
 
 - id: VB088
   name: "The Crossbreeds 2"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB089
   name: "Let the MUSICK play"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VB090
   name: "DDrmx"
+  byline: "Dynamic Duo"
   type: album
   artists:
   - dynamic-duo
 
 - id: VB091
   name: "Kerygma"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB092
   name: "Less Boodle, More Needs"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB093-1
   name: "Dis"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB093-2
   name: "Sol"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB094
   name: "DD2oo4"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VB095
   name: "Co-op Session 09"
+  byline: "Duo / Yathosho"
   type: single
   artists:
   - duo
 
 - id: VB096
   name: "Unfinished Sympathies"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB097
   name: "Who is Da Naughty One?"
+  byline: "Danaughty1"
   type: single
   artists:
   - danaughty1
 
 - id: VB098
   name: "The Internoob"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB099
   name: "U Been Naughty"
+  byline: "Danaughty1"
   type: album
   artists:
   - danaughty1
 
 - id: VB100
   name: "VISBOT 100"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB101
   name: "The Great Escape"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB102
   name: "Incipience III"
+  byline: "Amphirion"
   type: album
   artists:
   - amphirion
 
 - id: VB103
   name: "Exegesis"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB104
   name: "Facelifts"
+  byline: "Zamuz"
   type: single
   artists:
   - zamuz
 
 - id: VB105
   name: "Visions 5"
+  byline: "Zamuz"
   type: album
   artists:
   - zamuz
 
 - id: VB106
   name: "Co-op Session 10"
+  byline: "Amphirion / Vanish"
   type: single
   artists:
   - amphirion
@@ -879,6 +1023,7 @@
 
 - id: VB107
   name: "back2back"
+  byline: "Yathosho / Frames of Reality"
   type: single
   artists:
   - yathosho
@@ -886,342 +1031,399 @@
 
 - id: VB108
   name: "The Shapes of Math"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB109
   name: "DM5 Sampler"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB110
   name: "Entertainment for the Blind"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB111
   name: "Since When 2"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB112
   name: "Mindscapes"
+  byline: "Hboy"
   type: album
   artists:
   - hboy
 
 - id: VB113
   name: "The Age of Nuke EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB114
   name: "D.I.Y."
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB115
   name: "DDoo7"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB116
   name: "Lift-Off"
+  byline: "Synth-C"
   type: album
   artists:
   - yathosho
 
 - id: VB117-1
   name: "Refocused pt. 1"
+  byline: "AVS-King"
   type: single
   artists:
   - avs-king
 
 - id: VB117-2
   name: "Refocused pt. 2"
+  byline: "AVS-King"
   type: single
   artists:
   - avs-king
 
 - id: VB117-3
   name: "Refocused pt. 3"
+  byline: "AVS-King"
   type: single
   artists:
   - avs-king
 
 - id: VB118
   name: "Rehmix Vol. 1"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB119
   name: "Co-op Session 11"
+  byline: "Frames of Reality / ^..^"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB120-1
   name: "IT2 Sampler"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB120-2
   name: "In Treatment 2"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB121
   name: "Grime"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB122
   name: "Remix Collection"
+  byline: "Zamuz"
   type: compilation
   artists:
   - zamuz
 
 - id: VB123
   name: "X3"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB124
   name: "The D.S.E. Remixes"
+  byline: "Vanish"
   type: compilation
   artists:
   - vanish
 
 - id: VB125
   name: "DD2oo5"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VB126-1
   name: "Soy Bomb"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB126-2
   name: "Triad"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB127
   name: "Skin (Yathosho Remixes)"
+  byline: "Pure-Krypton"
   type: single
   artists:
   - pure-krypton
 
 - id: VB128
   name: "Back2Future EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB129
   name: "DM6 Sampler"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB130
   name: "Straight outta Lipton"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB131
   name: "Grime 2"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB132
   name: "New People Selection Vol. 4"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB133
   name: "Visualove"
+  byline: "Hboy"
   type: album
   artists:
   - hboy
 
 - id: VB134-1
   name: "Sight/Difference"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB134-2
   name: "Different Sights"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB135
   name: "DDxo1"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB136
   name: "DM6R"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB137
   name: "Sokoban EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB138
   name: "DDxo2"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB139
   name: "Rehmix Vol. 2"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB140
   name: "Tentaclism (The Y.M.O. Reworks)"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - zamuz
 
 - id: VB141
   name: "The Grit Escape EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB142
   name: "313 EP"
+  byline: "PAN AM"
   type: single
   artists:
   - pan-am
 
 - id: VB143
   name: "DDxo3"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB144
   name: "DDxo4"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB145
   name: "313R EP"
+  byline: "PAN AM"
   type: single
   artists:
   - pan-am
 
 - id: VB146
   name: "New People Selection Vol. 5"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB147
   name: "Got the Bug EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB148
   name: "Dynamic Art"
+  byline: "JaVS"
   type: album
   artists:
   - javs
 
 - id: VB149
   name: "Destroit MI"
+  byline: "PAN AM"
   type: album
   artists:
   - pan-am
 
 - id: VB150-1
   name: "X4EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB150-2
   name: "X4"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB151
   name: "Tentaclism (The Zamuz Reworks)"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB152
   name: "MNSTCKRMXS"
+  byline: "PAN AM"
   type: single
   artists:
   - pan-am
 
 - id: VB153
   name: "Dynamic Art (Ya-tho-sho Treatments)"
+  byline: "JaVS"
   type: single
   artists:
   - javs
 
 - id: VB154
   name: "Tentaclism"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VB155
   name: "Straight outta Lipton 2"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB156
   name: "Visions VI"
+  byline: "Zamuz"
   type: compilation
   artists:
   - zamuz
 
 - id: VB157
   name: "Golden Ai(é)r"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB158
   name: "Co-op Session 12"
+  byline: "Yathosho / Grandchild"
   type: single
   artists:
   - yathosho
@@ -1229,66 +1431,77 @@
 
 - id: VB159
   name: "DDxo5"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB160
   name: "Fridgeless"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB161
   name: "Modus Operandi"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB162
   name: "Scrapper's Delight"
+  byline: "les Noobiens"
   type: single
   artists:
   - les-noobiens
 
 - id: VB163
   name: "DM7 Sampler"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB164
   name: "re-Optimized"
+  byline: "JaVS"
   type: album
   artists:
   - javs
 
 - id: VB165
   name: "Bsides"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VB166
   name: "DDxo6"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB167
   name: "Grim3"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB168
   name: "Since When 3"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB169
   name: "Phase One"
+  byline: "SKuPeRS & Yathosho"
   type: single
   artists:
   - skupers
@@ -1296,18 +1509,21 @@
 
 - id: VB170
   name: "Refocused (The Y.M.O. Reworks)"
+  byline: "AVS-King"
   type: single
   artists:
   - avs-king
 
 - id: VB171
   name: "In Treatment 2.5"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB172
   name: "Phase Two"
+  byline: "Yathosho & SKuPeRS"
   type: single
   artists:
   - yathosho
@@ -1315,30 +1531,35 @@
 
 - id: VB173
   name: "The 12 inches of Co-op"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB174
   name: "Grime 4"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB175
   name: "Dynamix"
+  byline: "Dynamic Duo"
   type: album
   artists:
   - dynamic duo
 
 - id: VB176
   name: "Incipience (Dynamic Duo Reworks)"
+  byline: "Amphirion"
   type: single
   artists:
   - amphirion
 
 - id: VB177
   name: "Co-op Session 13"
+  byline: "Dynamic Duo / Onionring"
   type: single
   artists:
   - dynamic duo
@@ -1346,90 +1567,105 @@
 
 - id: VB178
   name: "He Said, She Said"
+  byline: "Onionring"
   type: album
   artists:
   - onionring
 
 - id: VB179
   name: "MOIIEP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB180-1
   name: "X5EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB180-2
   name: "X5"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB181
   name: "Modus Operandi 2"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB182-1
   name: "Edits pt. 1"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB182-2
   name: "Edits pt. 2"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB183
   name: "Einzelstücke"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB184
   name: "Sing. Less retro. Spectate"
+  byline: "Vanish"
   type: album
   artists:
   - vanish
 
 - id: VB185
   name: "Anotherversion Deux"
+  byline: "Anotherversion"
   type: compilation
   artists:
   - anotherversion
 
 - id: VB186
   name: "Since When 4"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB187
   name: "RMX EP"
+  byline: "PAN AM"
   type: single
   artists:
   - pan-am
 
 - id: VB188
   name: "X6"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB189
   name: "DDxo7"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB190
   name: "Nubtroopiii"
+  byline: "PAN AM & les Noobiens"
   type: compilation
   artists:
   - pan-am
@@ -1437,18 +1673,21 @@
 
 - id: VB191
   name: "Pillow Fight (The Remixes)"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB192
   name: "Tentacliism"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VB193
   name: "Co-op Session 14"
+  byline: "Synth-C / Zamuz"
   type: single
   artists:
   - synth-c
@@ -1456,24 +1695,28 @@
 
 - id: VB194
   name: "New People Selection Vol. 6"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB195
   name: "Rejects EP"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB196
   name: "Screw Drew"
+  byline: "Drew"
   type: compilation
   artists:
   - drew
 
 - id: VB197
   name: "The Vienna Mixes"
+  byline: "Yathosho & Grandchild"
   type: single
   artists:
   - yathosho
@@ -1481,76 +1724,89 @@
 
 - id: VB198
   name: "Dx 1x3"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB199
   name: "Tools Vol. 1"
+  byline: "Yathosho"
   type: single
 
 - id: VB200
   name: "VISBOT 200"
+  byline: "Various Artists"
   type: compilation
   artists:
   - various-artists
 
 - id: VB201-1
   name: "6ix EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB201-2
   name: "Brokenframe 6ix"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB202
   name: "Dynamix"
+  byline: "Dynamic Duo"
   type: album
   artists:
   - dynamic-duo
 
 - id: VB203
   name: "Nublak I-IV"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VB204
   name: "Fakes"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB205
   name: "Dx 2x3"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB206
   name: "Residual Heat EP"
+  byline: "Yathosho / Dynamic Duo"
   type: single
   artists:
   - yathosho
 
 - id: VB207-1
   name: "Manic"
+  byline: "Drew"
   type: single
   artists:
   - drew
 
 - id: VB207-2
   name: "Manic (Why Edits?)"
+  byline: "Drew"
   type: single
   artists:
   - drew
 
 - id: VB208
   name: "Untitled EP"
+  byline: "PAN AM / Yathosho"
   type: single
   artists:
   - pan-am
@@ -1558,66 +1814,77 @@
 
 - id: VB209
   name: "Dx 3x3"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB210
   name: "Fantasy Island"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB211
   name: "Skreamizm EP"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB212-1
   name: "R2EP"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB212-2
   name: "R2"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VB213
   name: "Modus Operandi 3"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB214
   name: "R2 (B-Sides)"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB215-1
   name: "X7EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB215-2
   name: "X7"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB216
   name: "Remixed"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB217
   name: "Co-op Session 15"
+  byline: "Amphirion / Micro.D"
   type: single
   artists:
   - amphirion
@@ -1625,78 +1892,91 @@
 
 - id: VB218
   name: "The Eight Ronin"
+  byline: "Various Artists"
   type: single
   artists:
   - various-artists
 
 - id: VB219-1
   name: "The Reconsidered"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB219-2
   name: "Recapture"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB220
   name: "U.G.L.Y."
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB221
   name: "Untilted EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB222-1
   name: "Final Cut (Edits)"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB222-2
   name: "Final Cut"
+  byline: "Yathosho"
   type: album
   artists:
   - yathosho
 
 - id: VB223
   name: "Tentacliiism"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VB224
   name: "Nite Versions EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB225
   name: "Argon"
+  byline: "Micro.D"
   type: album
   artists:
   - micro-d
 
 - id: VB226
   name: "Unnatural Objects"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB227
   name: "Tentacliiism EP"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB228
   name: "vs Amphirion - Pulse Remixes"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
@@ -1704,96 +1984,112 @@
 
 - id: VB229
   name: "Pillow Fight EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB230
   name: "Tentaclivsm (The Mash-ups)"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB231
   name: "Hojojutsu EP"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB232
   name: "Final Cut Versions"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VB233
   name: "Saller"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB234
   name: "Effekthasch"
+  byline: "Effekthasch"
   type: album
   artists:
   - effekthasch
 
 - id: VB235
   name: "Hentes"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB236
   name: "Hegy"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB237
   name: "Warping Droplets in a Cube EP"
+  byline: "Micro.D"
   type: single
   artists:
   - micro-d
 
 - id: VB238
   name: "Négy"
+  byline: "Frames of Reality"
   type: single
   artists:
   - frames-of-reality
 
 - id: VB239
   name: "Form & Function EP"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - yathosho
 
 - id: VB240
   name: "DMe Sampler"
+  byline: "Dynamic Duo"
   type: single
   artists:
   - dynamic-duo
 
 - id: VB241
   name: "Experiments in C Minor"
+  byline: "Frames of Reality"
   type: album
   artists:
   - frames-of-reality
 
 - id: VB242
   name: "Gesamtwerk"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VB243
   name: "Neon"
+  byline: "Micro.D"
   type: album
   artists:
   - micro-d
 
 - id: VB244
   name: "DDinJP"
+  byline: "VISBOT"
   type: single
   artists:
   - dynamic-duo
@@ -1801,120 +2097,140 @@
 # Compilations
 - id: VC001
   name: "The First Season"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC002
   name: "Watch out for this logo"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC003
   name: "Four"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC004
   name: "VISBOT meets Finnish Flash"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC005
   name: "The Second Season"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC006
   name: "Swindle all the way"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC007
   name: "Meat to please you"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC008
   name: "Better eight than never"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC009
   name: "The Third Season"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC010
   name: "VISBOT X"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC011
   name: "Meeting old friends in a phone booth"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC012
   name: "The Fourth Season"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC013
   name: "Twopointoh"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC014
   name: "Smells, bells and presets"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC015
   name: "Fifteen"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC016
   name: "Exit Claus"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC017
   name: "The least random number"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC018
   name: "Coming off H"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC019
   name: "1999 A.D."
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
 
 - id: VC020
   name: "20/10 Vision"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - various-artists
@@ -1924,48 +2240,56 @@
 ###
 - id: VD001
   name: "Dynamic Movement"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VD002
   name: "Dynamic Movement 2"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VD003
   name: "Dynamic Movement 3"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VD004
   name: "Dynamic Movement 4"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VD005
   name: "Dynamic Movement 5"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VD006
   name: "Dynamic Movement 6"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VD007
   name: "Dynamic Movement 7"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VD008
   name: "Dynamic Movement Epilogue"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - dynamic-duo
@@ -1975,84 +2299,98 @@
 ###
 - id: VE001
   name: "Black Noobiens"
+  byline: "Yathosho"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VE002
   name: "Minidisko"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VE003
   name: "Get customized"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - yathosho
 
 - id: VE004
   name: "Black Noobiens 2"
+  byline: "Yathosho"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VE005-1
   name: "gc2EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VE005-2
   name: "Get customized 2"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - yathosho
 
 - id: VE006
   name: "Black Noobiens 3"
+  byline: "AVS-King"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VE007
   name: "Refocused"
+  byline: "Yathosho"
   type: compilation
   artists:
   - avs-king
 
 - id: VE008-1
   name: "gc3EP"
+  byline: "Yathosho"
   type: single
   artists:
   - yathosho
 
 - id: VE008-2
   name: "Get customized 3"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VE009
   name: "Get customized 4"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VE010
   name: "Les antipodes"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - yathosho
 
 - id: VE011-1
   name: "EPs 2003-2005"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
 
 - id: VE011-2
   name: "EPs 2006-2009"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
