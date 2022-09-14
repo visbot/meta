@@ -6,15 +6,22 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install"
+    "lint": "eslint --fix --ignore-pattern=.gitignore ./src/**/*.yml ",
+    "prepare": "husky install",
+    "test": "ava"
   },
   "devDependencies": {
+    "ava": "^4.3.3",
     "eslint": "^8.23.0",
     "eslint-plugin-yaml": "^0.5.0",
     "husky": "^8.0.1",
-    "lint-staged": "^13.0.3"
+    "lint-staged": "^13.0.3",
+    "yaml": "^2.1.1"
   },
-	"lint-staged": {
-		"*.(yaml|yml)": "eslint --cache --fix"
-	}
+  "lint-staged": {
+    "*.(yaml|yml)": [
+      "eslint --cache --fix",
+      "npm run test"
+    ]
+  }
 }
