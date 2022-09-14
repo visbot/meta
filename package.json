@@ -21,7 +21,7 @@
   "lint-staged": {
     "*.(yaml|yml)": [
       "eslint --cache --fix",
-      "npm run test"
+      "npx ava"
     ]
   }
 }
