@@ -5,17 +5,33 @@ import { parse as parseYaml } from 'yaml';
 const dataSet = parseYaml(await fs.readFile('src/catalogue.yml', 'utf-8'));
 
 test('Unique IDs', t => {
-    const ids = [];
+    const actual = [];
     
     dataSet.forEach(item => {
-        if (ids.includes(item.id)) {
-            t.fail(`Duplicate ID found: ${item.id}`)
+        if (!actual.includes(item.id)) {
+            actual.push(item.id);
+            return;
         }
 
-        ids.push(item.id);
+        t.log(`Duplicate ID found: ${item.id}`);
     });
 
-    t.is(ids.length, dataSet.length);
+    t.is(actual.length, dataSet.length);
+});
+
+test('Valid ID pattern', t => {
+    const actual = [];
+    
+    dataSet.forEach(item => {
+        if (!/^V(A|B|C|D|E)\d{3}(-\d)?$/.test(item.id)) {
+            t.log(`Invalid pack type found: ${item.id}`);
+            return;
+        }
+
+        actual.push(item);
+    });
+
+    t.is(actual.length, dataSet.length);
 });
 
 test('Valid pack type', t => {
@@ -25,46 +41,59 @@ test('Valid pack type', t => {
         'single'
     ];
 
-    const actual = dataSet.map(item => {
+    const actual = [];
+    
+    dataSet.forEach(item => {
         if (!validTypes.includes(item.type)) {
-            t.fail(`Invalid pack type found: ${item.id}`)
+            t.log(`Invalid pack type found: ${item.id}`);
+            return;
         }
 
-        return item;
+        actual.push(item);
     });
 
     t.is(actual.length, dataSet.length);
 });
 
 test('Has required fields', t => {
-    const actual = dataSet.map((item, index) => {
+    const actual = [];
+    
+    dataSet.map((item, index) => {
         const keys = Object.keys(item);
 
         if (!keys.includes('id')) {
-            t.fail(`Missing key "id" at index ${item.id ?? index}`);
+            t.log(`Missing key "id" at index ${item.id ?? index}`);
+            return;
         } else if (typeof item.id !== 'string') {
-            t.fail(`Invalid type for "id": ${item.id ?? index}`);
+            t.log(`Invalid type for "id": ${item.id ?? index}`);
+            return;
         }
 
         if (!keys.includes('name')) {
-            t.fail(`Missing key "name": ${item.id ?? index}`);
+            t.log(`Missing key "name": ${item.id ?? index}`);
+            return;
         } else if (typeof item.name !== 'string') {
-            t.fail(`Invalid type for "name": ${item.id ?? index}`);
+            t.log(`Invalid type for "name": ${item.id ?? index}`);
+            return;
         }
 
         if (!keys.includes('type')) {
-            t.fail(`Missing key "type": ${item.id ?? index}`);
+            t.log(`Missing key "type": ${item.id ?? index}`);
+            return;
         } else if (typeof item.type !== 'string') {
-            t.fail(`Invalid type for "type": ${item.id}`);
+            t.log(`Invalid type for "type": ${item.id}`);
+            return;
         }
 
         if (!keys.includes('artists')) {
-            t.fail(`Missing key "artists": ${item.id ?? index}`);
+            t.log(`Missing key "artists": ${item.id ?? index}`);
+            return;
         } else if (!Array.isArray(item.artists)) {
-            t.fail(`Invalid type for "type": ${item.id ?? index}`);
+            t.log(`Invalid type for "type": ${item.id ?? index}`);
+            return;
         }
 
-        return item;
+        actual.push(item);
     });
 
     t.is(actual.length, dataSet.length);
@@ -76,7 +105,8 @@ test('Unique playlist IDs', t => {
     
     packWithVideo.forEach(item => {
         if (ids.includes(item.id)) {
-            t.fail(`Duplicate playlist ID found: ${item.id}`)
+            t.log(`Duplicate playlist ID found: ${item.id}`);
+            return;
         }
 
         ids.push(item.id);
