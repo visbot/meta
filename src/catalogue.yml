@@ -36,6 +36,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PL14A1F9B5746E82F7
 
 - id: VA005
   name: "Envisions Beyond"
@@ -43,6 +44,7 @@
   type: compilation
   artists:
   - duo
+  playlist: PLB6FC1F6D7F8EF817
 
 - id: VA006
   name: "Les Premières Années (1976-2006)"
@@ -50,6 +52,7 @@
   type: compilation
   artists:
   - les-noobiens
+  playlist: PLFF4C2661D73330B3
 
 - id: VA007
   name: "Singles"
@@ -57,6 +60,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PL2FE4F37E43CC0233
 
 - id: VA008
   name: "Seramony"
@@ -64,6 +68,7 @@
   type: compilation
   artists:
   - nemo-orange
+  playlist: PLE94B3AE5C75A0132
 
 - id: VA009
   name: "LP1-LP6"
@@ -123,13 +128,15 @@
   type: album
   artists:
   - skupers
+  playlist: PLF3F77EC5A5D6B56C
 
 - id: VB003-1
   name: "RRX 7\""
   byline: "SKuPeRS"
-  type: single
+  type: single 
   artists:
   - skupers
+  playlist: PL6E085DD000144728
 
 - id: VB003-2
   name: "LP7"
@@ -137,6 +144,7 @@
   type: album
   artists:
   - skupers
+  playlist: PL9889DEC6A2342E06
 
 - id: VB004
   name: "Since Then 4"
@@ -186,6 +194,7 @@
   type: album
   artists:
   - nemo-orange
+  playlist: PL793DBE8F92AD909E
 
 - id: VB009
   name: "Detroit V-VIII"
@@ -200,12 +209,16 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PL2B66D0894A9432CA
 
 - id: VB011-1
   name: "Version 2"
   byline: "Yathosho"
   artists:
   - yathosho
+  geoblock:
+  - jp
+  playlist: PLA88256277BEBBD1D
 
 - id: VB011-2
   name: "Version 2 EP"
@@ -220,6 +233,7 @@
   type: compilation
   artists:
   - skupers
+  playlist: PL9855B1AB865E8F36
 
 - id: VB013
   name: "XR6"
@@ -241,6 +255,7 @@
   type: album
   artists:
   - duo
+  playlist: PLC579FF95001278A0
 
 - id: VB015-2
   name: "Envision 2 (Reissue)"
@@ -248,6 +263,7 @@
   type: album
   artists:
   - duo
+  playlist: PL19AE009BDEE00228
 
 - id: VB015-3
   name: "Envision 3"
@@ -255,6 +271,7 @@
   type: album
   artists:
   - duo
+  playlist: PL041EDCD2DFA9E4F5
 
 - id: VB016
   name: "govisbotgo"
@@ -262,6 +279,7 @@
   type: single
   artists:
   - nemo-orange
+  playlist: PL0D4A6DF8E95DC940
 
 - id: VB017-1
   name: "Kirschblüten pt. 1"
@@ -290,6 +308,7 @@
   type: album
   artists:
   - alt-iii
+  playlist: PL6FA78443C6064A96
 
 - id: VB020-1
   name: "Heimcomputer II Preview"
@@ -325,6 +344,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PLAC0D46F45D48D80E
 
 - id: VB023
   name: "DDoo3"
@@ -374,6 +394,7 @@
   type: album
   artists:
   - zamuz
+  playlist: PL27DCD248A378C7A7
 
 - id: VB029-1
   name: "LP8P: Ætatula"
@@ -388,6 +409,7 @@
   type: album
   artists:
   - skupers
+  playlist: PLF1857F7583C83C68
 
 - id: VB030
   name: "Revisions"
@@ -395,6 +417,7 @@
   type: album
   artists:
   - zamuz
+  playlist: PL8D25676FEC29BF36
 
 - id: VB031
   name: "Co-op Session 01"
@@ -403,6 +426,7 @@
   artists:
   - skupers
   - amphirion
+  playlist: PLAC06315A88ACD95E
 
 - id: VB032
   name: "Noobism"
@@ -410,6 +434,7 @@
   type: album
   artists:
   - les-noobiens
+  playlist: PL7F72931BEBFF8904
 
 - id: VB033-1
   name: "Since Then 9"
@@ -424,6 +449,7 @@
   type: album
   artists:
   - yathosho
+  playlist: PLEE305E81D573DB38
 
 - id: VB034
   name: "Co-op Session 02"
@@ -432,6 +458,7 @@
   artists:
   - yathosho
   - zamuz
+  playlist: PL015291BF11F3E63F
 
 - id: VB035-1
   name: "I love OO"
@@ -460,6 +487,8 @@
   type: single
   artists:
   - dynamic-duo
+  geoblock:
+  - jp
 
 - id: VB038
   name: "Co-op Session 03"
@@ -468,6 +497,7 @@
   artists:
   - les-noobiens
   - unconed
+  playlist: PLDDC72FFB6F8FA06A
 
 - id: VB039
   name: "Relax"
@@ -475,6 +505,7 @@
   type: single
   artists:
   - nemo-orange
+  playlist: PL1A3AB47B0554AE68
 
 - id: VB040-1
   name: "Inside White"
@@ -489,6 +520,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PL6EFCB52BF012EDE8
 
 - id: VB041
   name: "Visions III"
@@ -496,6 +528,7 @@
   type: album
   artists:
   - zamuz
+  playlist: PL7743BBDFB07241C5
 
 - id: VB042
   name: "X"
@@ -503,6 +536,8 @@
   type: compilation
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB043
   name: "DD2oo3"
@@ -510,6 +545,8 @@
   type: compilation
   artists:
   - dynamic-duo
+  geoblock:
+  - jp
 
 - id: VB044
   name: "DDoo4"
@@ -531,6 +568,7 @@
   type: single
   artists:
   - nemo-orange
+  playlist: PL0865054E50BCFF17
 
 - id: VB047
   name: "LP7 Suite"
@@ -546,6 +584,7 @@
   artists:
   - dynamic-duo
   - finnish-flash
+  playlist: PL511BFC1BF987FE2C
 
 - id: VB049
   name: "New People Selection Vol. 1"
@@ -553,6 +592,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL0A94045FC89E0849
 
 - id: VB050
   name: "msibooN"
@@ -560,6 +600,7 @@
   type: album
   artists:
   - les-noobiens
+  playlist: PL92A78B13109BBE10
 
 - id: VB051
   name: "Tidal Pixel"
@@ -588,6 +629,7 @@
   type: album
   artists:
   - yathosho
+  playlist: PLBA0327BE4727FBA9
 
 - id: VB054
   name: "Broker's Insider Vol. 4"
@@ -595,6 +637,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PLCCEA159ACDD15525
 
 - id: VB055
   name: "DDoo5"
@@ -616,6 +659,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PLC0A75E597F2C306A
 
 - id: VB058
   name: "Co-op Session 05"
@@ -624,6 +668,7 @@
   artists:
   - zamuz
   - hboy
+  playlist: PL4A56834A97CD756B
 
 - id: VB059
   name: "Tintin on the Moon"
@@ -638,6 +683,8 @@
   type: single
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB061
   name: "New People Selection Vol. 2"
@@ -645,6 +692,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL0F34C65B16EE2F78
 
 - id: VB062
   name: "Shape Shifting"
@@ -694,6 +742,7 @@
   type: album
   artists:
   - nemo-orange
+  playlist: PLF03EB0AE34825157
 
 - id: VB068-1
   name: "Visions 4"
@@ -701,6 +750,7 @@
   type: album
   artists:
   - zamuz
+  playlist: PL9A18DB187CE0DE9A
 
 - id: VB068-2
   name: "Revisions 2"
@@ -708,6 +758,7 @@
   type: album
   artists:
   - zamuz
+  playlist: PL94F70C8B5945C85B
 
 - id: VB069
   name: "Broker's Insider Vol. 5"
@@ -750,6 +801,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PLCE88E4919654FA98
 
 - id: VB074-1
   name: "Preflight"
@@ -772,6 +824,7 @@
   artists:
   - nemo-orange
   - unripe-lemon
+  playlist: PLB0575E975ED37E29
 
 - id: VB076-1
   name: "Prelude to L.O.V.E"
@@ -786,6 +839,7 @@
   type: album
   artists:
   - les-noobiens
+  playlist: PL1B1AD0C0F8979DA0
 
 - id: VB077
   name: "Co-op Session 07"
@@ -794,6 +848,7 @@
   artists:
   - yathosho
   - synth-c
+  playlist: PL64FF2C72EC037623
 
 - id: VB078
   name: "Dreams"
@@ -815,6 +870,8 @@
   type: compilation
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB080
   name: "Co-op Session 08"
@@ -823,6 +880,7 @@
   artists:
   - danaughty1
   - hboy
+  playlist: PLD4C2F85A1B8B2D7B
 
 - id: VB081-1
   name: "Jacques aux Fraises"
@@ -837,6 +895,7 @@
   type: album
   artists:
   - les-noobiens
+  playlist: PL3E066DFCC4855462
 
 - id: VB082
   name: "Enter da Naughty"
@@ -844,6 +903,8 @@
   type: single
   artists:
   - danaughty1
+  geoblock:
+  - jp
 
 - id: VB083
   name: "It's da naughty loose"
@@ -851,6 +912,8 @@
   type: single
   artists:
   - danaughty1
+  geoblock:
+  - jp
 
 - id: VB084
   name: "Noobtroop Vol. 2"
@@ -865,6 +928,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PLFE19E12F58C82849
 
 - id: VB086
   name: "Naughty Nutz"
@@ -872,6 +936,8 @@
   type: single
   artists:
   - danaughty1
+  geoblock:
+  - jp
 
 - id: VB087
   name: "Da-Naughty-One"
@@ -886,6 +952,8 @@
   type: single
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB089
   name: "Let the MUSICK play"
@@ -900,6 +968,7 @@
   type: album
   artists:
   - dynamic-duo
+  playlist: PLCA0C39FE6651B1AB
 
 - id: VB091
   name: "Kerygma"
@@ -907,6 +976,7 @@
   type: album
   artists:
   - frames-of-reality
+  playlist: PLDCA5FE48765A183A
 
 - id: VB092
   name: "Less Boodle, More Needs"
@@ -935,6 +1005,8 @@
   type: compilation
   artists:
   - dynamic-duo
+  geoblock:
+  - jp
 
 - id: VB095
   name: "Co-op Session 09"
@@ -942,6 +1014,8 @@
   type: single
   artists:
   - duo
+  - yathosho
+  playlist: PL3FD3FCAC3B757DAC
 
 - id: VB096
   name: "Unfinished Sympathies"
@@ -949,6 +1023,8 @@
   type: single
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB097
   name: "Who is Da Naughty One?"
@@ -970,6 +1046,7 @@
   type: album
   artists:
   - danaughty1
+  playlist: PL03D542030234FDAD
 
 - id: VB100
   name: "VISBOT 100"
@@ -977,6 +1054,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PLD09AE2F053071854
 
 - id: VB101
   name: "The Great Escape"
@@ -984,6 +1062,7 @@
   type: album
   artists:
   - yathosho
+  playlist: PLF452BAF6A70A45A2
 
 - id: VB102
   name: "Incipience III"
@@ -991,6 +1070,7 @@
   type: album
   artists:
   - amphirion
+  playlist: PL93081F8A1D370A38
 
 - id: VB103
   name: "Exegesis"
@@ -998,6 +1078,7 @@
   type: album
   artists:
   - frames-of-reality
+  playlist: PL9258F95F32AA6EED
 
 - id: VB104
   name: "Facelifts"
@@ -1012,6 +1093,7 @@
   type: album
   artists:
   - zamuz
+  playlist: PL67AFC49A9DA315C9
 
 - id: VB106
   name: "Co-op Session 10"
@@ -1020,6 +1102,7 @@
   artists:
   - amphirion
   - vanish
+  playlist: PL323E372CBC499F13
 
 - id: VB107
   name: "back2back"
@@ -1049,6 +1132,7 @@
   type: album
   artists:
   - frames-of-reality
+  playlist: PL7CF5B97D9E75DC2D
 
 - id: VB111
   name: "Since When 2"
@@ -1063,6 +1147,7 @@
   type: album
   artists:
   - hboy
+  playlist: PL50B694740780157A
 
 - id: VB113
   name: "The Age of Nuke EP"
@@ -1070,6 +1155,8 @@
   type: single
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB114
   name: "D.I.Y."
@@ -1091,6 +1178,7 @@
   type: album
   artists:
   - yathosho
+  playlist: PL458E7B43045A4D42
 
 - id: VB117-1
   name: "Refocused pt. 1"
@@ -1126,6 +1214,7 @@
   type: single
   artists:
   - frames-of-reality
+  playlist: PL53FACC76F10AED15
 
 - id: VB120-1
   name: "IT2 Sampler"
@@ -1140,6 +1229,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PLF463D07D2A21C7B0
 
 - id: VB121
   name: "Grime"
@@ -1154,6 +1244,7 @@
   type: compilation
   artists:
   - zamuz
+  playlist: PL9F809501720CEE4C
 
 - id: VB123
   name: "X3"
@@ -1161,6 +1252,8 @@
   type: compilation
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB124
   name: "The D.S.E. Remixes"
@@ -1168,6 +1261,7 @@
   type: compilation
   artists:
   - vanish
+  playlist: PLD68A1D99C047289D
 
 - id: VB125
   name: "DD2oo5"
@@ -1175,6 +1269,8 @@
   type: compilation
   artists:
   - dynamic-duo
+  geoblock:
+  - jp
 
 - id: VB126-1
   name: "Soy Bomb"
@@ -1182,6 +1278,7 @@
   type: album
   artists:
   - frames-of-reality
+  playlist: PL37BE6A3CD6D52143
 
 - id: VB126-2
   name: "Triad"
@@ -1231,6 +1328,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL9FDA29BB5BAD7A49
 
 - id: VB133
   name: "Visualove"
@@ -1238,6 +1336,7 @@
   type: album
   artists:
   - hboy
+  playlist: PLF51D7D2A0B7438BA
 
 - id: VB134-1
   name: "Sight/Difference"
@@ -1245,6 +1344,7 @@
   type: album
   artists:
   - frames-of-reality
+  playlist: PLA099B366347F4C01
 
 - id: VB134-2
   name: "Different Sights"
@@ -1294,6 +1394,8 @@
   type: single
   artists:
   - zamuz
+  geoblock:
+  - jp
 
 - id: VB141
   name: "The Grit Escape EP"
@@ -1336,6 +1438,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL71055D2FCBB93FE1
 
 - id: VB147
   name: "Got the Bug EP"
@@ -1350,6 +1453,7 @@
   type: album
   artists:
   - javs
+  playlist: PL0C8D41D8ADD8BAC4
 
 - id: VB149
   name: "Destroit MI"
@@ -1357,6 +1461,7 @@
   type: album
   artists:
   - pan-am
+  playlist: PLB70B35975BFC1A86
 
 - id: VB150-1
   name: "X4EP"
@@ -1371,6 +1476,8 @@
   type: compilation
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB151
   name: "Tentaclism (The Zamuz Reworks)"
@@ -1378,6 +1485,8 @@
   type: single
   artists:
   - dynamic-duo
+  geoblock:
+  - jp
 
 - id: VB152
   name: "MNSTCKRMXS"
@@ -1399,6 +1508,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PLDDD7800D4D598519
 
 - id: VB155
   name: "Straight outta Lipton 2"
@@ -1413,6 +1523,7 @@
   type: compilation
   artists:
   - zamuz
+  playlist: PLB4EC00FDD649ABEF
 
 - id: VB157
   name: "Golden Ai(é)r"
@@ -1420,6 +1531,7 @@
   type: album
   artists:
   - frames-of-reality
+  playlist: PL58AC6273BE597575
 
 - id: VB158
   name: "Co-op Session 12"
@@ -1428,6 +1540,7 @@
   artists:
   - yathosho
   - grandchild
+  playlist: PLEDF0F3AC1CE39BE7
 
 - id: VB159
   name: "DDxo5"
@@ -1449,6 +1562,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PL2D30604F84B06D97
 
 - id: VB162
   name: "Scrapper's Delight"
@@ -1470,6 +1584,7 @@
   type: album
   artists:
   - javs
+  playlist: PL186B0706F8CE42C0
 
 - id: VB165
   name: "Bsides"
@@ -1477,6 +1592,8 @@
   type: compilation
   artists:
   - dynamic-duo
+  geoblock:
+  - jp
 
 - id: VB166
   name: "DDxo6"
@@ -1513,6 +1630,8 @@
   type: single
   artists:
   - avs-king
+  geoblock:
+  - jp
 
 - id: VB171
   name: "In Treatment 2.5"
@@ -1520,6 +1639,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PLC48C2B160D61246A
 
 - id: VB172
   name: "Phase Two"
@@ -1535,6 +1655,8 @@
   type: compilation
   artists:
   - various-artists
+  geoblock:
+  - jp
 
 - id: VB174
   name: "Grime 4"
@@ -1549,6 +1671,8 @@
   type: album
   artists:
   - dynamic duo
+  geoblock:
+  - jp
 
 - id: VB176
   name: "Incipience (Dynamic Duo Reworks)"
@@ -1564,6 +1688,7 @@
   artists:
   - dynamic duo
   - onionring
+  playlist: PL28C90C4308544A42
 
 - id: VB178
   name: "He Said, She Said"
@@ -1571,6 +1696,7 @@
   type: album
   artists:
   - onionring
+  playlist: PL911B20CC2B3C01B8
 
 - id: VB179
   name: "MOIIEP"
@@ -1592,6 +1718,8 @@
   type: compilation
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB181
   name: "Modus Operandi 2"
@@ -1599,6 +1727,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PL54774A5317C1BE6C
 
 - id: VB182-1
   name: "Edits pt. 1"
@@ -1620,6 +1749,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PL59D57D519813D45A
 
 - id: VB184
   name: "Sing. Less retro. Spectate"
@@ -1627,6 +1757,7 @@
   type: album
   artists:
   - vanish
+  playlist: PL0E30C5ED57BB7A2F
 
 - id: VB185
   name: "Anotherversion Deux"
@@ -1634,6 +1765,7 @@
   type: compilation
   artists:
   - anotherversion
+  playlist: PLC7A63DADE46E149C
 
 - id: VB186
   name: "Since When 4"
@@ -1655,6 +1787,8 @@
   type: compilation
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB189
   name: "DDxo7"
@@ -1670,6 +1804,7 @@
   artists:
   - pan-am
   - les-noobiens
+  playlist: PL31249E6CB6E8500A
 
 - id: VB191
   name: "Pillow Fight (The Remixes)"
@@ -1684,6 +1819,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PLB13504DD2BB27AF9
 
 - id: VB193
   name: "Co-op Session 14"
@@ -1692,6 +1828,7 @@
   artists:
   - synth-c
   - zamuz
+  playlist: PLE11D948656921482
 
 - id: VB194
   name: "New People Selection Vol. 6"
@@ -1699,6 +1836,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL4CFE0FA2ACF94256
 
 - id: VB195
   name: "Rejects EP"
@@ -1706,6 +1844,8 @@
   type: single
   artists:
   - dynamic-duo
+  geoblock:
+  - jp
 
 - id: VB196
   name: "Screw Drew"
@@ -1713,6 +1853,7 @@
   type: compilation
   artists:
   - drew
+  playlist: PL4A141453A4F5199C
 
 - id: VB197
   name: "The Vienna Mixes"
@@ -1754,6 +1895,7 @@
   type: album
   artists:
   - yathosho
+  playlist: PLB9801786A425E718
 
 - id: VB202
   name: "Dynamix"
@@ -1761,6 +1903,7 @@
   type: album
   artists:
   - dynamic-duo
+  playlist: PLB9D93876A3F1EC7C
 
 - id: VB203
   name: "Nublak I-IV"
@@ -1775,6 +1918,7 @@
   type: album
   artists:
   - yathosho
+  playlist: PL4EE9E10E918B95D7
 
 - id: VB205
   name: "Dx 2x3"
@@ -1846,6 +1990,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PL96E9E5718D4979E3
 
 - id: VB213
   name: "Modus Operandi 3"
@@ -1853,6 +1998,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PLAF1275CF0D742DAE
 
 - id: VB214
   name: "R2 (B-Sides)"
@@ -1874,6 +2020,8 @@
   type: compilation
   artists:
   - yathosho
+  geoblock:
+  - jp
 
 - id: VB216
   name: "Remixed"
@@ -1881,6 +2029,7 @@
   type: album
   artists:
   - yathosho
+  playlist: PLEC695D92EE5BEF2A
 
 - id: VB217
   name: "Co-op Session 15"
@@ -1889,6 +2038,7 @@
   artists:
   - amphirion
   - micro-d
+  playlist: PLBBE4BAECBC9D618B
 
 - id: VB218
   name: "The Eight Ronin"
@@ -1896,6 +2046,7 @@
   type: single
   artists:
   - various-artists
+  playlist: PL25A67F365B3397C5
 
 - id: VB219-1
   name: "The Reconsidered"
@@ -1910,6 +2061,7 @@
   type: album
   artists:
   - frames-of-reality
+  playlist: PL148863C80AE8AAD8
 
 - id: VB220
   name: "U.G.L.Y."
@@ -1917,6 +2069,7 @@
   type: compilation
   artists:
   - yathosho
+  playlist: PL7073FBE9AE1828AB
 
 - id: VB221
   name: "Untilted EP"
@@ -1938,6 +2091,7 @@
   type: album
   artists:
   - yathosho
+  playlist: PLEA56855A233740D7
 
 - id: VB223
   name: "Tentacliiism"
@@ -1945,6 +2099,8 @@
   type: compilation
   artists:
   - dynamic-duo
+  geoblock:
+  - jp
 
 - id: VB224
   name: "Nite Versions EP"
@@ -1959,6 +2115,7 @@
   type: album
   artists:
   - micro-d
+  playlist: PL4CDE00B660BA8182
 
 - id: VB226
   name: "Unnatural Objects"
@@ -2023,6 +2180,7 @@
   type: album
   artists:
   - effekthasch
+  playlist: PL5962EA87E2F36A5E
 
 - id: VB235
   name: "Hentes"
@@ -2086,6 +2244,7 @@
   type: album
   artists:
   - micro-d
+  playlist: PLD39033719BC1AF8D
 
 - id: VB244
   name: "DDinJP"
@@ -2094,13 +2253,16 @@
   artists:
   - dynamic-duo
 
-# Compilations
+#
+# Compilation Series
+###
 - id: VC001
   name: "The First Season"
   byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
+  playlist: PLC8FC4703CEBD30EC
 
 - id: VC002
   name: "Watch out for this logo"
@@ -2108,6 +2270,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PLF938CBA490D3A1CC
 
 - id: VC003
   name: "Four"
@@ -2115,6 +2278,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PLB0DFD9CD2C749DCD
 
 - id: VC004
   name: "VISBOT meets Finnish Flash"
@@ -2122,6 +2286,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL882236B815654798
 
 - id: VC005
   name: "The Second Season"
@@ -2129,6 +2294,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL3E32B46E39B34287
 
 - id: VC006
   name: "Swindle all the way"
@@ -2136,6 +2302,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL5BA33A9FB25376CF
 
 - id: VC007
   name: "Meat to please you"
@@ -2143,6 +2310,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PLEB6468F8EC199207
 
 - id: VC008
   name: "Better eight than never"
@@ -2150,6 +2318,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL2600E60B59C6765C
 
 - id: VC009
   name: "The Third Season"
@@ -2157,6 +2326,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PLACAF686A0AC0C30E
 
 - id: VC010
   name: "VISBOT X"
@@ -2164,6 +2334,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PLE783D5F6548538CE
 
 - id: VC011
   name: "Meeting old friends in a phone booth"
@@ -2171,6 +2342,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL92AC381C67AA7CA6
 
 - id: VC012
   name: "The Fourth Season"
@@ -2178,6 +2350,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL642065ACB7E2110E
 
 - id: VC013
   name: "Twopointoh"
@@ -2185,6 +2358,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL4C3F4E285C0A5F18
 
 - id: VC014
   name: "Smells, bells and presets"
@@ -2192,6 +2366,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL3BA8D5F35A73A50B
 
 - id: VC015
   name: "Fifteen"
@@ -2199,6 +2374,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL184798A15F12BBD8
 
 - id: VC016
   name: "Exit Claus"
@@ -2206,6 +2382,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL4826E8A539DDF07D
 
 - id: VC017
   name: "The least random number"
@@ -2213,6 +2390,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PLAB2FB8426CC49B05
 
 - id: VC018
   name: "Coming off H"
@@ -2220,6 +2398,7 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL6F6FDC9175C11145
 
 - id: VC019
   name: "1999 A.D."
@@ -2227,13 +2406,15 @@
   type: compilation
   artists:
   - various-artists
+  playlist: PL67836DCA9E5FAAB2
 
 - id: VC020
   name: "20/10 Vision"
-  byline: "Dynamic Duo"
+  byline: "VISBOT"
   type: compilation
   artists:
   - various-artists
+  playlist: PL5060450D9F89D561
 
 #
 # Dynamic Movement Series
@@ -2244,6 +2425,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PL625D823907F98E2F
 
 - id: VD002
   name: "Dynamic Movement 2"
@@ -2251,6 +2433,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PL43458CBDD93D6888
 
 - id: VD003
   name: "Dynamic Movement 3"
@@ -2258,6 +2441,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PLEC5835FCDD2FC615
 
 - id: VD004
   name: "Dynamic Movement 4"
@@ -2265,6 +2449,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PLFA78843268BDF94A
 
 - id: VD005
   name: "Dynamic Movement 5"
@@ -2272,6 +2457,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PL35016698194E1981
 
 - id: VD006
   name: "Dynamic Movement 6"
@@ -2279,6 +2465,7 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PL89E6822BDFB95176
 
 - id: VD007
   name: "Dynamic Movement 7"
@@ -2286,20 +2473,22 @@
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PL187F3B71835806BC
 
 - id: VD008
   name: "Dynamic Movement Epilogue"
-  byline: "les Noobiens"
+  byline: "Dynamic Duo"
   type: compilation
   artists:
   - dynamic-duo
+  playlist: PLCC40DC034133B14E
 
 #
 # External Series
 ###
 - id: VE001
   name: "Black Noobiens"
-  byline: "Yathosho"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - les-noobiens
@@ -2313,14 +2502,14 @@
 
 - id: VE003
   name: "Get customized"
-  byline: "les Noobiens"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VE004
   name: "Black Noobiens 2"
-  byline: "Yathosho"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - les-noobiens
@@ -2334,21 +2523,21 @@
 
 - id: VE005-2
   name: "Get customized 2"
-  byline: "les Noobiens"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
 
 - id: VE006
   name: "Black Noobiens 3"
-  byline: "AVS-King"
+  byline: "les Noobiens"
   type: compilation
   artists:
   - les-noobiens
 
 - id: VE007
   name: "Refocused"
-  byline: "Yathosho"
+  byline: "AVS-King"
   type: compilation
   artists:
   - avs-king
@@ -2376,7 +2565,7 @@
 
 - id: VE010
   name: "Les antipodes"
-  byline: "Dynamic Duo"
+  byline: "Yathosho"
   type: compilation
   artists:
   - yathosho
