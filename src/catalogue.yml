@@ -214,6 +214,7 @@
 - id: VB011-1
   name: "Version 2"
   byline: "Yathosho"
+  type: compilation
   artists:
   - yathosho
   geoblock:
@@ -1874,6 +1875,8 @@
   name: "Tools Vol. 1"
   byline: "Yathosho"
   type: single
+  artists:
+  - yathosho
 
 - id: VB200
   name: "VISBOT 200"
