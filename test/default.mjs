@@ -30,14 +30,14 @@ test('Valid pack type', t => {
             t.fail(`Invalid pack type found: ${item.id}`)
         }
 
-        return item.type
+        return item;
     });
 
     t.is(actual.length, dataSet.length);
 });
 
 test('Has required fields', t => {
-    dataSet.forEach((item, index) => {
+    const actual = dataSet.map((item, index) => {
         const keys = Object.keys(item);
 
         if (!keys.includes('id')) {
@@ -63,14 +63,15 @@ test('Has required fields', t => {
         } else if (!Array.isArray(item.artists)) {
             t.fail(`Invalid type for "type": ${item.id ?? index}`);
         }
+
+        return item;
     });
 
-    t.pass();
+    t.is(actual.length, dataSet.length);
 });
 
 test('Unique playlist IDs', t => {
     const ids = [];
-
     const packWithVideo = dataSet.filter(item => item.playlist);
     
     packWithVideo.forEach(item => {
