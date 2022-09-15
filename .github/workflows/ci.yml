@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  deploy:
+  run-test:
     runs-on: ubuntu-latest
     strategy:
       matrix:
