@@ -43,7 +43,5 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile --strict-peer-dependencies
 
-      - name: Build
+      - name: Test
         run: pnpm run test
-        env:
-          VITE_HOMEPAGE: https://idleberg.github.io/playdate-arcade-fonts
