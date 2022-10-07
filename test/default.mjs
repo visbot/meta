@@ -14,7 +14,7 @@ test('Unique IDs', () => {
             return;
         }
 
-        console.log(`Duplicate ID found: ${item.id}`);
+        throw new TypeError(`Duplicate ID found: ${item.id}`);
     });
 
     assert.is(actual.length, dataSet.length);
@@ -25,7 +25,7 @@ test('Valid ID pattern', () => {
     
     dataSet.forEach(item => {
         if (!/^V(A|B|C|D|E)\d{3}(-\d)?$/.test(item.id)) {
-            console.log(`Invalid pack type found: ${item.id}`);
+            throw new TypeError(`Invalid pack type foun": ${item.id}`);
             return;
         }
 
@@ -46,8 +46,7 @@ test('Valid pack type', () => {
     
     dataSet.forEach(item => {
         if (!validTypes.includes(item.type)) {
-            console.log(`Invalid pack type found: ${item.id}`);
-            return;
+            throw new TypeError(`Invalid pack type foun": ${item.id}`);
         }
 
         actual.push(item);
@@ -63,35 +62,27 @@ test('Has required fields', () => {
         const keys = Object.keys(item);
 
         if (!keys.includes('id')) {
-            console.log(`Missing key "id" at index ${item.id ?? index}`);
-            return;
+            throw new TypeError(`Missing key "id" at index ${item.id ?? index}`);
         } else if (typeof item.id !== 'string') {
-            console.log(`Invalid type for "id": ${item.id ?? index}`);
-            return;
+            throw new TypeError(`Invalid type for "id": ${item.id ?? index}`);
         }
 
         if (!keys.includes('name')) {
-            console.log(`Missing key "name": ${item.id ?? index}`);
-            return;
+            throw new TypeError(`Missing key "name": ${item.id ?? index}`);
         } else if (typeof item.name !== 'string') {
-            console.log(`Invalid type for "name": ${item.id ?? index}`);
-            return;
+            throw new TypeError(`Invalid type for "name": ${item.id ?? index}`);
         }
 
         if (!keys.includes('type')) {
-            console.log(`Missing key "type": ${item.id ?? index}`);
-            return;
+            throw new TypeError(`Missing key "type": ${item.id ?? index}`);
         } else if (typeof item.type !== 'string') {
-            console.log(`Invalid type for "type": ${item.id}`);
-            return;
+            throw new TypeError(`Invalid type for "type": ${item.id}`);
         }
 
         if (!keys.includes('artists')) {
-            console.log(`Missing key "artists": ${item.id ?? index}`);
-            return;
+            throw new TypeError(`Missing key "artists": ${item.id ?? index}`);
         } else if (!Array.isArray(item.artists)) {
-            console.log(`Invalid type for "type": ${item.id ?? index}`);
-            return;
+            throw new TypeError(`Invalid type for "type": ${item.id ?? index}`);
         }
 
         actual.push(item);
@@ -106,8 +97,7 @@ test('Unique playlist IDs', () => {
     
     packWithVideo.forEach(item => {
         if (ids.includes(item.playlist)) {
-            console.log(`Duplicate playlist ID found: ${item.playlist}`);
-            return;
+            throw new TypeError(`Duplicate playlist ID "${item.playlist}" found: ${item.id}`);
         }
 
         ids.push(item.playlist);
@@ -162,7 +152,7 @@ test('Valid artist', () => {
     dataSet.forEach(item => {
         item.artists.map(artist => {
             if (!validArtists.includes(artist)) {
-                throw new TypeError(`Invalid artist found: ${item.artists}`);
+                throw new TypeError(`Invalid artist "${artist}" found: ${item.id}`);
             }
         });
         
