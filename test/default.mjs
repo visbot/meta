@@ -105,12 +105,12 @@ test('Unique playlist IDs', () => {
     const packWithVideo = dataSet.filter(item => item.playlist);
     
     packWithVideo.forEach(item => {
-        if (ids.includes(item.id)) {
-            console.log(`Duplicate playlist ID found: ${item.id}`);
+        if (ids.includes(item.playlist)) {
+            console.log(`Duplicate playlist ID found: ${item.playlist}`);
             return;
         }
 
-        ids.push(item.id);
+        ids.push(item.playlist);
     });
 
     assert.is(ids.length, packWithVideo.length);
