@@ -1671,7 +1671,7 @@
   byline: "Dynamic Duo"
   type: album
   artists:
-  - dynamic duo
+  - dynamic-duo
   geoblock:
   - jp
 
@@ -1687,7 +1687,7 @@
   byline: "Dynamic Duo / Onionring"
   type: single
   artists:
-  - dynamic duo
+  - dynamic-duo
   - onionring
   playlist: PL28C90C4308544A42
 
