@@ -116,4 +116,60 @@ test('Unique playlist IDs', () => {
     assert.is(ids.length, packWithVideo.length);
 });
 
+test('Valid artist', () => {
+    const validArtists = [
+        // founding members
+        'alt-iii',
+        'avs-king',
+        'duo',
+        'dynamic-duo',
+        'nemo-orange',
+        'skupers',
+        'yathosho',
+
+        // joined members
+        'amphirion',
+        'danaughty1',
+        'effekthasch',
+        'frames-of-reality',
+        'grandchild',
+        'hboy',
+        'javs',
+        'les-noobiens',
+        'micro-d',
+        'onionring',
+        'pan-am',
+        'pure-krypton',
+        'synth-c',
+        'vanish',
+        'zamuz',
+
+        // non-members
+        'anotherversion',
+        'drew',
+        'finnish-flash',
+        'littlebuddy',
+        'tonic',
+        'unconed',
+        'unripe-lemon',
+        
+        // generic names
+        'various-artists'
+    ];
+
+    const actual = [];
+    
+    dataSet.forEach(item => {
+        item.artists.map(artist => {
+            if (!validArtists.includes(artist)) {
+                throw new TypeError(`Invalid artist found: ${item.artists}`);
+            }
+        });
+        
+        actual.push(item);
+    });
+
+    assert.is(actual.length, dataSet.length);
+});
+
 test.run();
